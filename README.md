@@ -88,11 +88,8 @@ Geiecke, F., & Jaravel, X. (2024). Conversations at scale: Robust AI-led intervi
 
 ## Contact
 
-**Andrea Pellegrini** (Student Researcher)  
+**Andrea Pellegrini**   
 Email: apelleg3@uillinois.edu  
-University of Illinois Urbana-Champaign
-
-**H. Chad Lane** (Principal Investigator)  
 University of Illinois Urbana-Champaign
 
 ## Acknowledgments
