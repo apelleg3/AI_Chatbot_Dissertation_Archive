@@ -234,7 +234,7 @@ DEBRIEFING_WITHDRAWAL = """#### Reminder of Your Right to Withdraw
 
 We would like to remind you that your participation in this research is completely voluntary. It is up to you to decide whether or not to continue participating in this study. If you decide to withdraw from the research at this time, we will destroy any data collected about you during this study. The decision to withdraw from this research will involve no penalty or loss of any benefits to which you are otherwise entitled. This will not affect your relationship with the investigator.
 
-**If you would like to withdraw from this study, please let the investigator know by March 1, 2025.** After this date, the data cleaning process should be complete, and any personal information connecting you to the data will be completely deleted making it difficult to remove data associated with your participation."""
+**If you would like to withdraw from this study, please let the investigator know by March 1, 2026.** After this date, the data cleaning process should be complete, and any personal information connecting you to the data will be completely deleted making it difficult to remove data associated with your participation."""
 
 DEBRIEFING_IRB = """**Institutional Review Board:** If you have any questions about your rights as a research subject, including concerns, complaints, or to offer input, you may call the Office for the Protection of Research Subjects (OPRS) at 217-333-2670 or e-mail OPRS at [irb@illinois.edu](mailto:irb@illinois.edu).
 
